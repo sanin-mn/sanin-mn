@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/sanin_369" target="blank"><img src="https://img.shields.io/twitter/follow/sanin_369?logo=twitter&style=for-the-badge" alt="sanin_369" /></a> </p>
 
-- 🌱 I’m currently learning **MEARN**
+- 🌱 I’m currently learning **MEARN STACK**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **msanin7003@gmail.com**
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/sanin_369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanin_369" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammed-sanin-81a0a1221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-sanin-81a0a1221" height="30" width="40" /></a>
-<a href="https://instagram.com/sanin_369_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanin_369_" height="30" width="40" /></a>
+<a href="https://instagram.com/sanin_mn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanin_369_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
